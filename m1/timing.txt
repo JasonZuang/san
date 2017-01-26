@@ -1,0 +1,4 @@
+Time for C code for 385 bytes: 505.000000 
+Time for system call code for 385 bytes: 1229.000000 
+Time for C code for 2 megabytes: 94025.000000 
+Time for system call code for 2 megabytes: 718802.000000 
