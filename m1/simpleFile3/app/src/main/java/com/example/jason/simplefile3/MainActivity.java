@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 os.write(a);
             }
             os.close();
-            file.delete();
+           file.delete();
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
